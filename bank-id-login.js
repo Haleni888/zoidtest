@@ -8,7 +8,7 @@ var MyLoginComponent = zoid.create({
 
 
     url: {
-        local: 'http://localhost:25648',
+        local: 'http://localhost:5000',
         dev: 'http://my-dev-site.com:8000/mycomponent',
         live: 'https://my-live-site.com/mycomponent'
     },
